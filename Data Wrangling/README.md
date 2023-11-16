@@ -19,3 +19,17 @@
 - pandas
 - matplotlib.pyplot
 - seaborn
+
+# Langkah-langkah
+
+1. Cek tipe data ()
+2. Cek missing values (drop/imputation/interpolation)
+3. Cek duplikasi data (drop)
+4. Cek statistik kolom / inaccurate values ()
+
+# Tahap Cleaning
+
+1. Drop duplikasi data
+2. Menangani missing values
+3. Menangani inaccurate values
+4. Menangani kesalahan tipe data
