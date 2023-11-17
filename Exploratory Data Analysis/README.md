@@ -29,7 +29,6 @@
 
 # Langkah-langkah
 
-1. Melakukan eksplorasi data
-2.
-3.
-4.
+1. Melakukan wrangling data
+2. Melakukan eksplorasi data
+3. Mencatat insight
