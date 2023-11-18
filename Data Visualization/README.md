@@ -2,14 +2,13 @@
 
 # Tujuan
 
-1. Membuat pertanyaan analisis atau bisnis yang ingin dicari jawabannya.
-2. Melakukan eksplorasi terhadap setiap data untuk mencari insight menarik guna menjawab pertanyaan bisnis tersebut.
+1. Menjawab seluruh pertanyaan analisis atau bisnis yang sebelumnya telah dibuat.
+2. Membuat visualisasi data untuk mempermudah penyampaian hasil analisis data.
 
 # Alur Tahapan
 
-1. Tahap persiapan.
-2. Tahap penentuan pertanyaan bisnis untuk explorasi data.
-3. Tahap eksplorasi data.
+1. Persiapan.
+2. Membuat visualisasi data yang menjawab pertanyaan bisnis.
 
 # Library
 
@@ -20,17 +19,15 @@
 
 # Pertanyaan Bisnis
 
-- Bagaimana performa penjualan dan revenue perusahaan dalam beberapa bulan terakhir?
-- Produk apa yang paling banyak dan paling sedikit terjual?
-- Bagaimana demografi pelanggan yang kita miliki?
-- Kapan terakhir pelanggan melakukan transaksi?
-- Seberapa sering seorang pelanggan melakukan pembelian dalam beberapa bulan terakhir?
-- Berapa banyak uang yang dihabiskan pelanggan dalam beberapa bulan terakhir?
+1. Bagaimana performa penjualan dan revenue perusahaan dalam beberapa bulan terakhir?
+2. Produk apa yang paling banyak dan paling sedikit terjual?
+3. Bagaimana demografi pelanggan yang kita miliki?
+4. Kapan terakhir pelanggan melakukan transaksi?
+5. Seberapa sering seorang pelanggan melakukan pembelian dalam beberapa bulan terakhir?
+6. Berapa banyak uang yang dihabiskan pelanggan dalam beberapa bulan terakhir?
 
 # Langkah-langkah
 
-1. Melakukan wrangling data
-2. Melakukan eksplorasi data
-3.
-4.
-5.
+1. Melakukan 'Data Wrangling'
+2. Melakukan 'Exploratory Data Analysis' / EDA
+3. Menjawab pertanyaan bisnis dengan 'Data Visualization'
