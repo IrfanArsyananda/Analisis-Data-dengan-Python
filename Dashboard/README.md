@@ -1,14 +1,16 @@
 # Dashboard
-<!---
+
 # Tujuan
 
-1.
-2.
+1. Membuat sebuah report analisis data yang interaktif dalam sebuah dashboard.
+2. Mempermudah audiens atau user dalam melihat hasil analisis data.
 
 # Alur Tahapan
 
-1.
-2.
+1. Persiapan.
+2. Menyiapkan DataFrame yang akan digunakan.
+3. Membuat komponen filter pada dashboard.
+4. Melengkapi dashboard dengan berbagai visualisasi data.
 
 # Library
 
@@ -18,16 +20,16 @@
 - seaborn
 - streamlit
 
-# Pertanyaan Bisnis
-
 # Langkah-langkah
 
 1. Melakukan 'Data Wrangling'
 2. Melakukan 'Exploratory Data Analysis' / EDA
 3. Menjawab pertanyaan bisnis dengan 'Data Visualization'
-4. xxx
--->
+4. Menyimpan berkas data yang telah dibersihkan.
+5. d
+
 # Basic Element dalam Streamlit
+
 <table border="1" VALIGN=TOP>
 	<tr>
 		<th>Write</th>
@@ -65,6 +67,61 @@
         <ol>
           <li>pyplot()</li>
           <li>bar_chart()</li>
+        </ol>
+      </td>
+ 	</tr>
+</table>
+
+# Basic Widgets dalam Streamlit
+
+<table border="1" VALIGN=TOP>
+	<tr>
+		<th>Input Widgets</th>
+		<th>Button Widgets</th>
+ 	</tr>
+ 	<tr valign="top">
+  		<td>
+        <ol>
+          <li>text_input()</li>
+          <li>text_area()</li>
+          <li>number_input()</li>
+          <li>date_input()</li>
+          <li>file_uploader()</li>
+          <li>camera_input()</li>
+        </ol>
+      </td>
+  		<td>
+        <ol>
+          <li>button()</li>
+          <li>checkbox()</li>
+          <li>radio()</li>
+          <li>selectbox()</li>
+          <li>multiselect()</li>
+          <li>slider()</li>
+        </ol>
+      </td>
+ 	</tr>
+</table>
+
+# Basic Layouts dalam Streamlit
+
+<table border="1" VALIGN=TOP>
+	<tr>
+		<th>Sidebar</th>
+		<th>Columns</th>
+		<th>Tabs</th>
+		<th>Expander</th>
+		<th>Container</th>
+ 	</tr>
+ 	<tr valign="top">
+  		<td>
+        <ol>
+          <li>text_input()</li>
+          <li>text_area()</li>
+          <li>number_input()</li>
+          <li>date_input()</li>
+          <li>file_uploader()</li>
+          <li>camera_input()</li>
         </ol>
       </td>
  	</tr>
