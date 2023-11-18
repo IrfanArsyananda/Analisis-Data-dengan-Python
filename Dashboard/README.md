@@ -26,7 +26,8 @@
 2. Melakukan 'Exploratory Data Analysis' / EDA
 3. Menjawab pertanyaan bisnis dengan 'Data Visualization'
 4. Menyimpan berkas data yang telah dibersihkan.
-5. d
+5. Menginstal library streamlit babel
+6. Membuat file .py baru
 
 # Basic Element dalam Streamlit
 
