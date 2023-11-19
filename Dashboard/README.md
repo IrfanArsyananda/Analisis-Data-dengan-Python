@@ -115,15 +115,6 @@
 		<th>Container</th>
  	</tr>
  	<tr valign="top">
-  		<td>
-        <ol>
-          <li>text_input()</li>
-          <li>text_area()</li>
-          <li>number_input()</li>
-          <li>date_input()</li>
-          <li>file_uploader()</li>
-          <li>camera_input()</li>
-        </ol>
-      </td>
+  
  	</tr>
 </table>

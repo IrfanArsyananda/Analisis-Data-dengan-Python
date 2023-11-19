@@ -1,8 +1,10 @@
 # Dicoding - Belajar Analisis Data dengan Python
 
 Link : https://www.dicoding.com/academies/555
+Tahapan : Data Wrangling -> Exploratory Data Analysis -> Data Visualization -> Dashboard
 
 # Preparing
+
 <div class="mb-5 fr-view academy-tutorial-content content--prettify-light js-content-prettify">
     <ol>
         <li>Pertama, siapkan <em>environment&nbsp;</em>untuk menjalankan proyek ini. Pada proyek latihan ini, Anda dapat
