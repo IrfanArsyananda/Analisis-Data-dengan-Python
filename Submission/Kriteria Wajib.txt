@@ -4,4 +4,4 @@ Kriteria Wajib :
    - 2 Pertanyaan bisnis/analisis✅
    - 2 Visualisasi data sesuai pertanyaan✅
 3. Rapi sesuai template✅
-4. Dashboard streamlit
+4. Dashboard streamlit✅
