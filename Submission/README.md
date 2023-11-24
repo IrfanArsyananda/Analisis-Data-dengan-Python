@@ -16,5 +16,5 @@ streamlit run dashboard.py
 
 ## Run steamlit app
 
-Link Dashboard : ???
-Screenshot : ???
+Link Dashboard : https://bike-sharing-2411.streamlit.app/
+Screenshot : Folder 'screenshot dashboard'

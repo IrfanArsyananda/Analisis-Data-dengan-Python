@@ -1,7 +1,0 @@
-Kriteria Wajib :
-1. Menggunakan dataset yg disediakan (Air Quality)✅
-2. Melakukan seluruh analisis data
-   - 2 Pertanyaan bisnis/analisis✅
-   - 2 Visualisasi data sesuai pertanyaan✅
-3. Rapi sesuai template✅
-4. Dashboard streamlit✅
