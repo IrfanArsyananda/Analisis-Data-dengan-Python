@@ -1,4 +1,12 @@
 # Dashboard
+<table border="1">
+    <tr>
+        <td><img src="https://github.com/IrfanArsyananda/Analisis-Data-dengan-Python/assets/71767382/61f2e94a-07e2-4b6a-a1fe-29d30e25958a" width="720px"></td>
+    </tr>
+    <tr>
+	<td><img src="https://github.com/IrfanArsyananda/Analisis-Data-dengan-Python/assets/71767382/addfc977-6942-4460-a20c-73874b7fb30c" width="720px"></td>
+    </tr>
+</table>
 
 # Tujuan
 
@@ -108,13 +116,10 @@
 
 <table border="1" VALIGN=TOP>
 	<tr>
-		<th>Sidebar</th>
-		<th>Columns</th>
-		<th>Tabs</th>
-		<th>Expander</th>
-		<th>Container</th>
- 	</tr>
- 	<tr valign="top">
-  
+	<th>Sidebar</th>
+	<th>Columns</th>
+	<th>Tabs</th>
+	<th>Expander</th>
+	<th>Container</th>
  	</tr>
 </table>
